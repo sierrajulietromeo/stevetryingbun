@@ -3,5 +3,5 @@ const PORT = 5000;
 
 export default {
     port: PORT,
-    fetch: (request) => new Response("Welcome to Bun!")
+    fetch: (request) => new Response("Welcome to Steve's Bun!")
 };
